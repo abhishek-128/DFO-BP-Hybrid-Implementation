@@ -24,8 +24,11 @@ could not have been possible without the constant support of my academic supervi
 only because of the constant learning process incorporated through the years along with the extreme support extended by the supervisors, that I have been able to achieve this result.
 
 <h3>Citations</h3>
-- https://link.springer.com/chapter/10.1007/978-3-030-12767-1_5 <br>
-- https://ieeexplore.ieee.org/abstract/document/9655851 <br>
-- https://ieeexplore.ieee.org/abstract/document/6933060 <br>
-- https://www.worldscientific.com/doi/abs/10.1142/S021821301960008X <br>
-- https://dl.acm.org/doi/abs/10.1145/3227609.3227655 <br>
+
+> Here are few of the many citations...
+
+1. https://link.springer.com/chapter/10.1007/978-3-030-12767-1_5 <br>
+2. https://ieeexplore.ieee.org/abstract/document/9655851 <br>
+3. https://ieeexplore.ieee.org/abstract/document/6933060 <br>
+4. https://www.worldscientific.com/doi/abs/10.1142/S021821301960008X <br>
+5. https://dl.acm.org/doi/abs/10.1145/3227609.3227655 <br>
