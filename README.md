@@ -31,13 +31,15 @@ only because of the constant learning process incorporated through the years alo
   <img src="IMAGES/acc_fitness.png" width="350">
 </p>
 
-  ***
+<h3 align="center">Neural Network DFO model and metric comparison**</h3>
+<br>
 <p align="center">
   <img src="IMAGES/model_comp_nn_dfo_bp_f1.png" width="350">
   <img src="IMAGES/fitness_prog_nn_dfo_bp_f1.png" width="350">
   <img src="IMAGES/NN_DFO_BP_ACC.png" width="350">
   <img src="IMAGES/fitness_prog.png" width="350">
 </p>
+<h3 align="center">Neural Network DFO_BP Hybrid model and metric comparison</h3>
 
 <h3>Citations</h3>
 
