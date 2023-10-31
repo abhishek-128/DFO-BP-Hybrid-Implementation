@@ -1,10 +1,9 @@
 # DFO-BP-Hybrid-Implementation
-DFO-BP: Implementation of Dispersive Flies Optimisation Backpropagation Hybrid to improve phishing website detection
 
-Project Supervisors - Dr Mohammad Majid al-Rifaie and Dr Hooman Oroojeni Mohamad Javad
-
-<i>Welcome to DFO BP: Implementation of Dispersive Flies Optimisation Backpropagation Hybrid to improve phishing websites detection.
-A novel hybrid implementation of swarm intelligence algorithm and back-propagation.</i>
+> <i>Welcome to DFO_BP: <br>
+> A novel hybrid implementation of swarm intelligence algorithm (Dispersive Flies Optimisation) and back-propagation to improve phishing website detection.</i> <br>
+>
+> Project Supervisors - Dr Mohammad Majid al-Rifaie and Dr Hooman Oroojeni Mohamad Javad
 
 <h3>Disclaimer</h3>
 
@@ -23,3 +22,10 @@ It further evaluates the proposed novel hybrid approach by employing multiple me
 I am extremely grateful to all the authors who have imparted their brilliance in contributing to the growth of this field which has formed a basis for the implementation of this experiment. This research
 could not have been possible without the constant support of my academic supervisors. I would like to thank all my tutors who have helped me in the formation of this research. It is
 only because of the constant learning process incorporated through the years along with the extreme support extended by the supervisors, that I have been able to achieve this result.
+
+<h3>Citations</h3>
+- https://link.springer.com/chapter/10.1007/978-3-030-12767-1_5 <br>
+- https://ieeexplore.ieee.org/abstract/document/9655851 <br>
+- https://ieeexplore.ieee.org/abstract/document/6933060 <br>
+- https://www.worldscientific.com/doi/abs/10.1142/S021821301960008X <br>
+- https://dl.acm.org/doi/abs/10.1145/3227609.3227655 <br>
