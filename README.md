@@ -23,10 +23,25 @@ I am extremely grateful to all the authors who have imparted their brilliance in
 could not have been possible without the constant support of my academic supervisors. I would like to thank all my tutors who have helped me in the formation of this research. It is
 only because of the constant learning process incorporated through the years along with the extreme support extended by the supervisors, that I have been able to achieve this result.
 
+<h3>Results</h3>
+<p align="center">
+  <img src="IMAGES/model_comp_nn_dfo_f1.png" width="350">
+  <img src="IMAGES/fitness_nn_dfo_f1.png" width="350">
+  <img src="IMAGES/model_comp.png" width="350">
+  <img src="IMAGES/acc_fitness.png" width="350">
+</p>
+
+  ***
+<p align="center">
+  <img src="IMAGES/model_comp_nn_dfo_bp_f1.png" width="350">
+  <img src="IMAGES/fitness_prog_nn_dfo_bp_f1.png" width="350">
+  <img src="IMAGES/NN_DFO_BP_ACC.png" width="350">
+  <img src="IMAGES/fitness_prog.png" width="350">
+</p>
+
 <h3>Citations</h3>
 
 > Here are few of the many citations...
-
 1. https://link.springer.com/chapter/10.1007/978-3-030-12767-1_5 <br>
 2. https://ieeexplore.ieee.org/abstract/document/9655851 <br>
 3. https://ieeexplore.ieee.org/abstract/document/6933060 <br>
