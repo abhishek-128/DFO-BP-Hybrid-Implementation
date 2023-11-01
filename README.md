@@ -3,7 +3,7 @@
 > <i>Welcome to DFO_BP: <br>
 > A novel hybrid implementation of swarm intelligence algorithm (Dispersive Flies Optimisation) and back-propagation to improve phishing website detection.</i> <br>
 >
-> Project Supervisors - Dr Mohammad Majid al-Rifaie and Dr Hooman Oroojeni Mohamad Javad
+> Project Supervisors - Dr Mohammad Majid Al-Rifaie and Dr Hooman Oroojeni Mohamad Javad
 
 <h3>Disclaimer</h3>
 
