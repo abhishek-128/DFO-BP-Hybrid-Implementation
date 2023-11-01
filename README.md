@@ -11,7 +11,7 @@ This project is a <i>novel</i> approach in the respective field with multiple au
 It has been designed and developed through detailed and 
 exhaustive research in the field of swarm intelligence and machine learning.
 It was submitted in the form of a Final Year Project for the BSc Hons Computer Science (AI) course.
-This peice of work remains as a submitted coursework designed by the author and hence should not be copied as an original work for other fields, including but not limited to the academics. 
+This piece of work remains as a submitted coursework designed by the author and hence should not be copied as an original work for other fields, including but not limited to the academics. 
 Please feel free to contact the author should you have any queries about the accuracy or any other details.
 
 <h3>Preface</h3>
