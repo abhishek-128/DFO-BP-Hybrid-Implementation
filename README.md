@@ -41,6 +41,10 @@ only because of the constant learning process incorporated through the years alo
 </p>
 <h3 align="center">Neural Network DFO_BP Hybrid model and metric comparison</h3>
 
+<h3>Conclusion</h3>
+The basis of the implementation of the proposed hybrid approach was the assumption that it could deliver far superior outcomes not just against the DFO implementation, but also other prominent heuristic methods employed in the past which have addressed the detection of phishing websites. The proposed approach model (DFO BP) attempted to optimise the performance of the neural network by implementing a hybrid of the gradient-free and gradient-based methods. The gradient-free method implemented was the Dispersive Flies Optimisation algorithm which is a swarm intelligence
+algorithm and the gradient-based approach considered was the backpropagation. The employed hybrid algorithm not only outperformed the alternative approach (DFO implementation) but also some of the past employed methods.
+
 <h3>Citations</h3>
 
 > Here are few of the many citations...
